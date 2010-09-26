@@ -1,0 +1,11 @@
+[Epiphany Extension]
+Name=Ephyflow
+Description=Use more sane settings, including font size, and no window resizing.
+Authors=Matt Read <matt@mattread.com>
+Version=1
+URL=http://github.com/MattRead/Ephyboy/wiki
+
+
+[Loader]
+Type=seed
+Module=ephyflow
