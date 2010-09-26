@@ -1,9 +1,9 @@
 [Epiphany Extension]
 Name=Ephyflow
-Description=Use more sane settings, including font size, and no window resizing.
+Description=Integrate the Steadyflow download manager with Epiphany.
 Authors=Matt Read <matt@mattread.com>
 Version=1
-URL=http://github.com/MattRead/Ephyboy/wiki
+URL=http://github.com/MattRead/Ephyflow
 
 
 [Loader]
