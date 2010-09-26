@@ -1,0 +1,9 @@
+Ephyflow Extension for Epiphany by Matt Read, 2010
+http://github.com/MattRead/Ephyflow
+
+This extension integrate the Steadyflow download manager with Epiphany.
+
+INSTALLATION
+
+Just copy `ephyflow.js` and `ephyflow.ephy-extension` to `~/.gnome2/epiphany/extensions/`.
+Then enable the extension in the Extension Manager.
