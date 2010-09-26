@@ -1,9 +1,18 @@
 Ephyflow Extension for Epiphany by Matt Read, 2010
 http://github.com/MattRead/Ephyflow
 
-This extension integrate the Steadyflow download manager with Epiphany.
+This extension integrates the Steadyflow download manager with Epiphany.
 
 INSTALLATION
 
+In order for seed extensions to work in epiphany you need to have both the gir1.0-webkit-1.0
+and gir1.0-soup-2.4 installed.
+
 Just copy `ephyflow.js` and `ephyflow.ephy-extension` to `~/.gnome2/epiphany/extensions/`.
 Then enable the extension in the Extension Manager.
+
+USAGE
+
+Steadyflow has to be open for this extension to work.
+
+Simply clicking on a link to a download file, will add the download to Steadyflow.
